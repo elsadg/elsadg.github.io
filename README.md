@@ -1,6 +1,6 @@
-** Current projects**
+**Current projects**
 - [BIGMIG-DEMO](https://business.esa.int/projects/bigmig-demo)
-- SenSPa (
+- [SenSPa](http://www.senspa.karteco.gr/en/index.html)
 
 **Work Experience**
 - GMV Innovating Solutions LTD (January 2019 - current)
