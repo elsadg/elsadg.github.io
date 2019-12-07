@@ -10,9 +10,9 @@
 - Joint Research Center of the European Commission
 
 **Education**
-- PhD in Remote Sensing
-- MSc in Remote Sensing and Geography
-- BSc in Physical Geography
+- PhD in Remote Sensing (University of Edinburgh)
+- MSc in Remote Sensing and Geography (Aberystwyth University)
+- BSc in Physical Geography (Aberystwyth University)
 
 **Publications**
 - De Grandi, E.C., Mitchard, E., Woodhouse, I. and De Grandi, G. 2015. Spatial Wavelet Statistics of SAR Backscatter for Characterizing Degraded Forest: A Case Study from Cameroon. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 8(7), 3572-3584. 
