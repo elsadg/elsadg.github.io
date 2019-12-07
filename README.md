@@ -1,6 +1,6 @@
 **Elsa**
 
-GMV Innovating Solutions LTD (January 2019 - current)
+<h2>GMV Innovating Solutions LTD (January 2019 - current)<h2>
 University of Edinburgh
 Sarmap SA
 Ecology Matters
