@@ -1,10 +1,13 @@
 **Current projects**
 - [BIGMIG-DEMO](https://business.esa.int/projects/bigmig-demo)
 - [SenSPa](http://www.senspa.karteco.gr/en/index.html)
+- [Hummingbird] (https://hummingbird-h2020.eu/)
+- [SmartGrids] (https://business.esa.int/projects/smartgrids)
+- [MRV4C] 
 
 **Work Experience**
 - GMV Innovating Solutions LTD (January 2019 - current)
-- University of Edinburgh
+- University of Edinburgh (Postdoctorl Research Assistant in Amazon Peat Remote Sensing)
 - Sarmap SA
 - Ecology Matters
 - Joint Research Center of the European Commission
@@ -13,6 +16,10 @@
 - PhD in Remote Sensing (University of Edinburgh)
 - MSc in Remote Sensing and Geography (Aberystwyth University)
 - BSc in Physical Geography (Aberystwyth University)
+
+**Skills**
+- Earth Observation
+- Project Management
 
 **Publications**
 - De Grandi, E.C., Mitchard, E., Woodhouse, I. and De Grandi, G. 2015. Spatial Wavelet Statistics of SAR Backscatter for Characterizing Degraded Forest: A Case Study from Cameroon. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 8(7), 3572-3584. 
