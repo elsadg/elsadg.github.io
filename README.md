@@ -3,7 +3,7 @@
 - [SenSPa](http://www.senspa.karteco.gr/en/index.html)
 - [Hummingbird](https://hummingbird-h2020.eu/)
 - [SmartGrids](https://business.esa.int/projects/smartgrids)
-- [MRV4C] (https://mrv4c.com)
+- [MRV4C](https://mrv4c.com)
 - FOCASTOCK
 
 **Work Experience**
