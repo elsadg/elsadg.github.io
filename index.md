@@ -1,11 +1,3 @@
-**Remote Sensing Projects**
-- [BIGMIG-DEMO](https://business.esa.int/projects/bigmig-demo)
-- [SenSPa](http://www.senspa.karteco.gr/en/index.html)
-- [Hummingbird](https://hummingbird-h2020.eu/)
-- [SmartGrids](https://business.esa.int/projects/smartgrids)
-- [MRV4C](https://mrv4c.com)
-- [FOCASTOCK](https://www.forestcarbonpartnership.org/sites/fcp/files/assessment_of_innovative_technologies_and_their_readiness_for_rs_based_estimation_of_forest_carbon_stocks_and_dynamics.pdf)
-
 **Work Experience**
 - Earth Observation Engineer and Project Manager @ GMV NSL (January 2019 - current)
 - Postdoctoral Research Assistant in Amazon Peat Remote Sensing @ University of Edinburgh (2018)
@@ -26,12 +18,19 @@
 - Python
 - R
 
+**Remote Sensing Projects**
+- [BIGMIG-DEMO](https://business.esa.int/projects/bigmig-demo)
+- [SenSPa](http://www.senspa.karteco.gr/en/index.html)
+- [Hummingbird](https://hummingbird-h2020.eu/)
+- [SmartGrids](https://business.esa.int/projects/smartgrids)
+- [MRV4C](https://mrv4c.com)
+- [FOCASTOCK](https://www.forestcarbonpartnership.org/sites/fcp/files/assessment_of_innovative_technologies_and_their_readiness_for_rs_based_estimation_of_forest_carbon_stocks_and_dynamics.pdf)
 
-[**Publications**] (https://scholar.google.com/citations?hl=en&user=lgDAxZ8AAAAJ&view_op=list_works&sortby=pubdate)
+**Publications** 
 - De Grandi, E.C., Mitchard, E., Woodhouse, I. and De Grandi, G. 2015. Spatial Wavelet Statistics of SAR Backscatter for Characterizing Degraded Forest: A Case Study from Cameroon. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 8(7), 3572-3584. 
 - De Grandi, E.C., Mitchard, E.T.A. and Hoekman, D. 2016. Wavelet Based Analysis of TanDEM-X and LiDAR DEMs Across a Tropical Vegetation Heterogeneity Gradient Driven by Fire Disturbance in Indonesia. Remote Sensing, 8, 641. 
 - Gómez Giménez et al. 2021. Assessment of Innovative Technologies and Their Readiness for Remote Sensing-Based Estimation of Forest Carbon Stocks and Dynamics. World Bank Group - Climate Change.
-
+- [Other publications](https://scholar.google.com/citations?hl=en&user=lgDAxZ8AAAAJ&view_op=list_works&sortby=pubdate)
 
 **Presentations & Posters**
 - TanDEM-X Science Meeting 2013 (Talk): Analysis of TanDEM-X InSAR Data and LiDAR Data Aimed at the Characterisation of Open Forest Vertical Structure: A Case Study in Injune, Queensland (Australia).
