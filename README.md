@@ -1,4 +1,4 @@
-** Remote Sensing Projects**
+**Remote Sensing Projects**
 - [BIGMIG-DEMO](https://business.esa.int/projects/bigmig-demo)
 - [SenSPa](http://www.senspa.karteco.gr/en/index.html)
 - [Hummingbird](https://hummingbird-h2020.eu/)
