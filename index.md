@@ -67,9 +67,9 @@ losses and gains in African landscapes?, Edinburgh (2014)(Attendant)
 - Fundamental Methods in Geography and Geography Fieldwork: Foundations (GIS and Remote Sensing Lab and fieldwork demonstrator, School of GeoSciences, University of Edinburgh)
 
 **Online Articles Related to GMV Projects**
-- [BIGMIG provides actionable insights for the aid & development community] (https://www.gmv.com/sites/default/files/content/file/2021/10/25/114/gmv_news_79_en.pdf)
-- [BIGMIG-DEMO ESA Article] (https://www.esa.int/Enabling_Support/Preparing_for_the_Future/Space_for_Earth/How_an_Italian_NGO_uses_space_to_help_people_in_need)
-- [MRV4C Web Platform Demonstration] (https://www.gmv.com/en-pt/communication/news/mrv4c-web-platform-demonstration)
-- [GMV contributes to sustainable development and reduction of deforestation] (https://www.gmv.com/en/communication/news/gmv-contributes-sustainable-development-and-reduction-deforestation)
-- [How Helpcode, an Italian NGO, uses space to help people in need] (https://www.onuitalia.com/how-helpcode-an-italian-ngo-uses-space-to-help-people-in-need/). 
+- [BIGMIG provides actionable insights for the aid & development community](https://www.gmv.com/sites/default/files/content/file/2021/10/25/114/gmv_news_79_en.pdf)
+- [BIGMIG-DEMO ESA Article](https://www.esa.int/Enabling_Support/Preparing_for_the_Future/Space_for_Earth/How_an_Italian_NGO_uses_space_to_help_people_in_need)
+- [MRV4C Web Platform Demonstration](https://www.gmv.com/en-pt/communication/news/mrv4c-web-platform-demonstration)
+- [GMV contributes to sustainable development and reduction of deforestation](https://www.gmv.com/en/communication/news/gmv-contributes-sustainable-development-and-reduction-deforestation)
+- [How Helpcode, an Italian NGO, uses space to help people in need](https://www.onuitalia.com/how-helpcode-an-italian-ngo-uses-space-to-help-people-in-need/)
 - [BIGMIG-DEMO Brochure](https://mysustainableforest.com/wp-content/uploads/2019/05/GMV_BIGMIG-Space-Based-Services-for-Migration.pdf)
