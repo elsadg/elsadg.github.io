@@ -7,9 +7,9 @@
 - SAR Remote Sensing Trainee @ [Joint Research Center of the European Commission](https://commission.europa.eu/about-european-commission/departments-and-executive-agencies/joint-research-centre_en) (2006)
 
 **Education**
-- PhD in Remote Sensing (University of Edinburgh, UK)
-- MSc in Remote Sensing and Geography (Distinction)(Aberystwyth University, UK)
-- BSc in Physical Geography (1st)(Aberystwyth University, UK)
+- [PhD in Remote Sensing](https://era.ed.ac.uk/handle/1842/29511?show=full) (University of Edinburgh, UK)
+- [MSc in Remote Sensing and Geography](https://www.researchgate.net/publication/258051264_Theoretical_and_Experimental_Analysis_of_TanDEM-X_InSAR_Data_Aimed_at_the_Characterisation_of_Vegetation_Vertical_Structure_A_Case_Study_in_Injune_Queensland_Australia) (Distinction)(Aberystwyth University, UK)
+- [BSc in Physical Geography](https://www.researchgate.net/publication/258051371_Understanding_the_relationship_between_radar_microwave_backscatter_and_vegetation_biomass_through_allometric_equations_and_wave_scattering_models_a_case_study_for_Pinus_sylvestris) (1st)(Aberystwyth University, UK)
 
 **Skills**
 - Remote Sensing
