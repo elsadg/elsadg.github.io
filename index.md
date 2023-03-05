@@ -1,10 +1,10 @@
 **Work Experience**
 - Technical Specialist, Remote Sensing, Conservation Technology @ [Fauna & Flora International](https://www.fauna-flora.org/) (2022 - present)
-- Earth Observation Engineer and Project Manager @ GMV NSL (January 2019 - 2022)
-- Postdoctoral Research Assistant in Amazon Peat Remote Sensing @ University of Edinburgh (2018)
-- Remote Sensing Trainee @ Sarmap SA (2013)
+- Earth Observation Engineer and Project Manager @ [GMV NSL](https://www.gmv.com/en-es/sectors/space#geospatial-services-) (January 2019 - 2022)
+- Postdoctoral Research Assistant in Amazon Peat Remote Sensing @ [University of Edinburgh](https://mitchardgroup.wordpress.com/) (2018)
+- Remote Sensing Trainee @ [Sarmap SA](https://www.sarmap.ch/) (2013)
 - GIS and Remote Sening Trainee @ Ecology Matters (2012)
-- SAR Remote Sensing Trainee @ Joint Research Center of the European Commission (2006)
+- SAR Remote Sensing Trainee @ [Joint Research Center of the European Commission](https://commission.europa.eu/about-european-commission/departments-and-executive-agencies/joint-research-centre_en) (2006)
 
 **Education**
 - PhD in Remote Sensing (University of Edinburgh, UK)
@@ -53,7 +53,7 @@
 - SPIE Remote Sensing 2016 (Talk): “Tropical Forest Heterogeneity from TanDEM-X InSAR and LiDAR Observations in Indonesia”.
 - TanDEM-X Science Meeting 2016 (Talk): “Tropical Forest Heterogeneity from TanDEM-X InSAR and LiDAR Observations in Indonesia”
 - LIGNA 2019 (Talk): "Satellite data for forest damage assessment"
-- Women in Conservation Technology Workshop 2022(Talk): "Remote Sensing and Google Earth Engine"
+- Women in Conservation Technology Workshop 2022 (Talk): "Remote Sensing and Google Earth Engine"
 
 **Workshops**
 - Tropical forest monitoring in the 2020s – do we have the tools to quantify carbon
