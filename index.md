@@ -19,9 +19,17 @@
 - Above-ground biomass mapping
 - Data pre-processing
 - Data analysis
+- Data visualisation
 - Project Management
+- Capacity building
 - Python
 - R
+- GIS
+
+
+**Mermberships**
+ - [Women in Geospatial](https://speakers.womeningeospatial.org/speakers/qEAUKfgnT1PyKPhzZhMbXuAvivS2)
+ - [Sisters of SAR](https://sistersofsar.wixsite.com/sistersofsar/sar-stars)
 
 **Remote Sensing Projects (GMV NSL)**
 - [BIGMIG-DEMO](https://business.esa.int/projects/bigmig-demo)
