@@ -33,11 +33,11 @@
  - [Sisters of SAR](https://sistersofsar.wixsite.com/sistersofsar/sar-stars)
  
 **Current projects**
-- [Cambodia] (https://www.fauna-flora.org/countries/cambodia/)
-- [Kenya] (https://www.fauna-flora.org/countries/kenya/)
-- [Liberia] (https://www.fauna-flora.org/countries/liberia/)
-- [Tanzania] (https://www.fauna-flora.org/countries/tanzania/)
-- [Democratic Republic of Congo] (https://www.fauna-flora.org/countries/democratic-republic-congo/)
+- [Cambodia](https://www.fauna-flora.org/countries/cambodia/)
+- [Kenya](https://www.fauna-flora.org/countries/kenya/)
+- [Liberia](https://www.fauna-flora.org/countries/liberia/)
+- [Tanzania](https://www.fauna-flora.org/countries/tanzania/)
+- [Democratic Republic of Congo](https://www.fauna-flora.org/countries/democratic-republic-congo/)
 
 **Remote Sensing Projects (GMV NSL)**
 - [BIGMIG-DEMO](https://business.esa.int/projects/bigmig-demo)
