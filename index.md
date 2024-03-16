@@ -15,14 +15,21 @@
 - Remote Sensing
 - Sythetic Aperture Radar
 - Interferometric Synthetic Aperture Radar
+- Optical remote sensing
 - Landcover classification
+- Peatland mapping
+- Flood mapping
 - Above-ground biomass mapping
 - REDD+
 - Data pre-processing
 - Data analysis
 - Data visualisation
+- Machine learning
 - Project Management
+- Proposal writing (ESA, EU H2020, World Bank, Satellite Applications Catapult, Darwin, Innovate UK)
+- Budgeting
 - Capacity building
+- Stakeholders engagement
 - Python
 - R
 - GIS
@@ -32,12 +39,13 @@
  - [Women in Geospatial](https://speakers.womeningeospatial.org/speakers/qEAUKfgnT1PyKPhzZhMbXuAvivS2)
  - [Sisters of SAR](https://sistersofsar.wixsite.com/sistersofsar/sar-stars)
  
-**Current projects**
+**Current projects at Fauna & Flora**
 - [Cambodia](https://www.fauna-flora.org/countries/cambodia/)
 - [Kenya](https://www.fauna-flora.org/countries/kenya/)
 - [Liberia](https://www.fauna-flora.org/countries/liberia/)
 - [Tanzania](https://www.fauna-flora.org/countries/tanzania/)
 - [Democratic Republic of Congo](https://www.fauna-flora.org/countries/democratic-republic-congo/)
+ -[REDD+](https://www.fauna-flora.org/expertise/biodiversity-business/redd/)
 
 **Remote Sensing Projects (GMV NSL)**
 - [BIGMIG-DEMO](https://business.esa.int/projects/bigmig-demo)
@@ -51,7 +59,7 @@
 - De Grandi, E.C., Mitchard, E., Woodhouse, I. and De Grandi, G. 2015. Spatial Wavelet Statistics of SAR Backscatter for Characterizing Degraded Forest: A Case Study from Cameroon. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 8(7), 3572-3584. 
 - De Grandi, E.C., Mitchard, E.T.A. and Hoekman, D. 2016. Wavelet Based Analysis of TanDEM-X and LiDAR DEMs Across a Tropical Vegetation Heterogeneity Gradient Driven by Fire Disturbance in Indonesia. Remote Sensing, 8, 641. 
 - Gómez Giménez et al. 2021. Assessment of Innovative Technologies and Their Readiness for Remote Sensing-Based Estimation of Forest Carbon Stocks and Dynamics. World Bank Group - Climate Change.
--[Other publications](https://scholar.google.com/citations?hl=en&user=lgDAxZ8AAAAJ&view_op=list_works&sortby=pubdate)
+- [Other publications](https://scholar.google.com/citations?hl=en&user=lgDAxZ8AAAAJ&view_op=list_works&sortby=pubdate)
 
 **Presentations & Posters**
 - TanDEM-X Science Meeting 2013 (Talk): Analysis of TanDEM-X InSAR Data and LiDAR Data Aimed at the Characterisation of Open Forest Vertical Structure: A Case Study in Injune, Queensland (Australia).
@@ -70,6 +78,7 @@
 - TanDEM-X Science Meeting 2016 (Talk): “Tropical Forest Heterogeneity from TanDEM-X InSAR and LiDAR Observations in Indonesia”
 - LIGNA 2019 (Talk): "Satellite data for forest damage assessment"
 - Women in Conservation Technology Workshop 2022 (Talk): "Remote Sensing and Google Earth Engine"
+- Cambridge Zero Postgraduate Academy 2024 (Talk): "Conservation Technology for Nature-based Solutions"
 
 **Workshops**
 - Tropical forest monitoring in the 2020s – do we have the tools to quantify carbon
