@@ -26,7 +26,7 @@
 - Data visualisation
 - Machine learning
 - Project Management
-- Proposal writing (ESA, EU H2020, World Bank, Satellite Applications Catapult, Darwin, Innovate UK)
+- Proposal writing (ESA, EU H2020, World Bank, Satellite Applications Catapult, Darwin Innovation, Innovate UK)
 - Budgeting
 - Capacity building
 - Stakeholders engagement
@@ -38,14 +38,14 @@
 **Mermberships**
  - [Women in Geospatial](https://speakers.womeningeospatial.org/speakers/qEAUKfgnT1PyKPhzZhMbXuAvivS2)
  - [Sisters of SAR](https://sistersofsar.wixsite.com/sistersofsar/sar-stars)
- 
+ - [WILDLABS] (https://wildlabs.net/)
 **Current projects at Fauna & Flora**
 - [Cambodia](https://www.fauna-flora.org/countries/cambodia/)
 - [Kenya](https://www.fauna-flora.org/countries/kenya/)
 - [Liberia](https://www.fauna-flora.org/countries/liberia/)
 - [Tanzania](https://www.fauna-flora.org/countries/tanzania/)
 - [Democratic Republic of Congo](https://www.fauna-flora.org/countries/democratic-republic-congo/)
- -[REDD+](https://www.fauna-flora.org/expertise/biodiversity-business/redd/)
+- [REDD+](https://www.fauna-flora.org/expertise/biodiversity-business/redd/)
 
 **Remote Sensing Projects (GMV NSL)**
 - [BIGMIG-DEMO](https://business.esa.int/projects/bigmig-demo)
