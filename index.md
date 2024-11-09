@@ -38,7 +38,7 @@
 **Mermberships**
  - [Women in Geospatial](https://speakers.womeningeospatial.org/speakers/qEAUKfgnT1PyKPhzZhMbXuAvivS2)
  - [Sisters of SAR](https://sistersofsar.wixsite.com/sistersofsar/sar-stars)
- - [WILDLABS] (https://wildlabs.net/)
+ - [WILDLABS](https://wildlabs.net/)
 **Current projects at Fauna & Flora**
 - [Cambodia](https://www.fauna-flora.org/countries/cambodia/)
 - [Kenya](https://www.fauna-flora.org/countries/kenya/)
