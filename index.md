@@ -39,7 +39,10 @@
  - [Women in Geospatial](https://speakers.womeningeospatial.org/speakers/qEAUKfgnT1PyKPhzZhMbXuAvivS2)
  - [Sisters of SAR](https://sistersofsar.wixsite.com/sistersofsar/sar-stars)
  - [WILDLABS](https://wildlabs.net/)
+
 **Current projects at Fauna & Flora**
+- [BLF Lower Mekong Landscape Project]
+- [Cabo Verde](https://www.fauna-flora.org/countries/cabo-verde/)
 - [Cambodia](https://www.fauna-flora.org/countries/cambodia/)
 - [Kenya](https://www.fauna-flora.org/countries/kenya/)
 - [Liberia](https://www.fauna-flora.org/countries/liberia/)
@@ -56,33 +59,35 @@
 - [FOCASTOCK](https://www.forestcarbonpartnership.org/sites/fcp/files/assessment_of_innovative_technologies_and_their_readiness_for_rs_based_estimation_of_forest_carbon_stocks_and_dynamics.pdf)
 
 **Publications** 
+- Lombardo, S., Rosenthal, A., Anderson, C. B., Bagstad, K., Batist, C., Beirne, C., ... & Walker, T. (2025). Paradigms and Principles for Integrating Nature Technologies in Biodiversity Monitoring.
+- Hastie, A., Honorio Coronado, E. N., Reyna, J., Mitchard, E. T., Åkesson, C. M., Baker, T. R., ... & Lawson, I. T. (2022). Risks to carbon storage from land-use change revealed by peat thickness maps of Peru. Nature Geoscience, 15(5), 369-374.
 - De Grandi, E.C., Mitchard, E., Woodhouse, I. and De Grandi, G. 2015. Spatial Wavelet Statistics of SAR Backscatter for Characterizing Degraded Forest: A Case Study from Cameroon. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 8(7), 3572-3584. 
 - De Grandi, E.C., Mitchard, E.T.A. and Hoekman, D. 2016. Wavelet Based Analysis of TanDEM-X and LiDAR DEMs Across a Tropical Vegetation Heterogeneity Gradient Driven by Fire Disturbance in Indonesia. Remote Sensing, 8, 641. 
 - Gómez Giménez et al. 2021. Assessment of Innovative Technologies and Their Readiness for Remote Sensing-Based Estimation of Forest Carbon Stocks and Dynamics. World Bank Group - Climate Change.
 - [Other publications](https://scholar.google.com/citations?hl=en&user=lgDAxZ8AAAAJ&view_op=list_works&sortby=pubdate)
 
 **Presentations & Posters**
-- TanDEM-X Science Meeting 2013 (Talk): Analysis of TanDEM-X InSAR Data and LiDAR Data Aimed at the Characterisation of Open Forest Vertical Structure: A Case Study in Injune, Queensland (Australia).
-- TanDEM-X Science Meeting 2013 (Talk): Spatial statistics of Tandem-X backscatter and coherence data provided by a wavelet frame aimed at the characterization of forest horizontal structure.
-- IEEE Geoscience and Remote Sensing Conference 2013 (Talk): Analysis of TanDEM-X InSAR data aimed at the characterisation of vegetation vertical structure: A case study in Injune, Queensland (Australia)”
-- Wavelength (Poster): "Landcover Classification Using Wavelet Signatures on ENVISAT ASAR data in Lom Et Djerem, South-East Cameroon".
-- IEEE Geoscience and Remote Sensing Conference 2014 (Talk): "Spatio- temporal Wavelet Statistics of SAR Backscatter for the Characterisation of Forest Degradation in Cameroon"
-- School of GeoSciences, University of Edinburgh Postgraduate Conference 2014 (Talk): Quantifying Extent and Evolution of Forest Degradation Using Wavelet Analysis of Microwave and Optical Multi-temporal Remote Sensing Data.
-- IEEE Geoscience and Remote Sensing Conference 2015 (Poster): “Statistics of TanDEM-X DSM, Coherence and Backscatter for the Characterisation of Tropical Forest Structural Configuration”
-- School of GeoSciences, University of Edinburgh Postgraduate Conference 2015 (Poster): The Potential of Interferometric Synthetic Aperture Radar for Estimates of Tropical Forest Structure and Temporal Changes.
-- 1st International Electronic Conference on Remote Sensing 2015 (Online Presentation): “Multi-Temporal Pixel Trajectories of SAR Backscatter and Coherence in Tropical Forests”
-- 35th EARSeL Symposium and Temporal Analysis Workshop 2015 (Talk and Poster): “Multi-Temporal Pixel Trajectories of SAR Backscatter and Coherence in Tropical Forests”
-- 6th International Workshop on Retrieval of Bio- & Geo-physical Parameters from SAR Data for Land Applications 2015 (Talk): “The Potential of TanDEM-X InSAR Coherence for Mapping Tropical Forest Structure: A Case Study in East Kalimantan”
-- ESA Living Planet Symposium 2016 (Poster): “Characterising Vegetation Structure and Disturbance using TanDEM-X: A Case Study in East Kalimantan”
-- SPIE Remote Sensing 2016 (Talk): “Tropical Forest Heterogeneity from TanDEM-X InSAR and LiDAR Observations in Indonesia”.
-- TanDEM-X Science Meeting 2016 (Talk): “Tropical Forest Heterogeneity from TanDEM-X InSAR and LiDAR Observations in Indonesia”
-- LIGNA 2019 (Talk): "Satellite data for forest damage assessment"
-- Women in Conservation Technology Workshop 2022 (Talk): "Remote Sensing and Google Earth Engine"
-- Cambridge Zero Postgraduate Academy 2024 (Talk): "Conservation Technology for Nature-based Solutions"
+- 2013: TanDEM-X Science Meeting (Talk): Analysis of TanDEM-X InSAR Data and LiDAR Data Aimed at the Characterisation of Open Forest Vertical Structure: A Case Study in Injune, Queensland (Australia).
+- 2013: TanDEM-X Science Meeting (Talk): Spatial statistics of Tandem-X backscatter and coherence data provided by a wavelet frame aimed at the characterization of forest horizontal structure.
+- 2013: IEEE Geoscience and Remote Sensing Conference (Talk): Analysis of TanDEM-X InSAR data aimed at the characterisation of vegetation vertical structure: A case study in Injune, Queensland (Australia)”
+- 2014: Wavelength (Poster): "Landcover Classification Using Wavelet Signatures on ENVISAT ASAR data in Lom Et Djerem, South-East Cameroon".
+- IEEE Geoscience and Remote Sensing Conference (Talk): "Spatio- temporal Wavelet Statistics of SAR Backscatter for the Characterisation of Forest Degradation in Cameroon"
+- 2014: School of GeoSciences, University of Edinburgh Postgraduate Conference (Talk): Quantifying Extent and Evolution of Forest Degradation Using Wavelet Analysis of Microwave and Optical Multi-temporal Remote Sensing Data.
+- 2015: IEEE Geoscience and Remote Sensing Conference (Poster): “Statistics of TanDEM-X DSM, Coherence and Backscatter for the Characterisation of Tropical Forest Structural Configuration”
+- 2015: School of GeoSciences, University of Edinburgh Postgraduate Conference (Poster): The Potential of Interferometric Synthetic Aperture Radar for Estimates of Tropical Forest Structure and Temporal Changes.
+- 2015: 1st International Electronic Conference on Remote Sensing (Online Presentation): “Multi-Temporal Pixel Trajectories of SAR Backscatter and Coherence in Tropical Forests”
+- 2015: 35th EARSeL Symposium and Temporal Analysis Workshop (Talk and Poster): “Multi-Temporal Pixel Trajectories of SAR Backscatter and Coherence in Tropical Forests”
+- 2015: 6th International Workshop on Retrieval of Bio- & Geo-physical Parameters from SAR Data for Land Applications (Talk): “The Potential of TanDEM-X InSAR Coherence for Mapping Tropical Forest Structure: A Case Study in East Kalimantan”
+- 2016: ESA Living Planet Symposium (Poster): “Characterising Vegetation Structure and Disturbance using TanDEM-X: A Case Study in East Kalimantan”
+- 2016: SPIE Remote Sensing (Talk): “Tropical Forest Heterogeneity from TanDEM-X InSAR and LiDAR Observations in Indonesia”.
+- 2016: TanDEM-X Science Meeting (Talk): “Tropical Forest Heterogeneity from TanDEM-X InSAR and LiDAR Observations in Indonesia”
+- 2019: LIGNA (Talk): "Satellite data for forest damage assessment"
+- 2022: Women in Conservation Technology Workshop (Talk): "Remote Sensing and Google Earth Engine"
+- 2024: Cambridge Zero Postgraduate Academy (Talk): "Conservation Technology for Nature-based Solutions"
 
 **Workshops**
 - Tropical forest monitoring in the 2020s – do we have the tools to quantify carbon
-losses and gains in African landscapes?, Edinburgh (2014)(Attendant)
+losses and gains in African landscapes?, Edinburgh (2014)
 
 **Teaching, Tutoring and Demonstrating**
 - Physical Geography (Course Assistant, School of GeoSciences, University of Edinburgh)
